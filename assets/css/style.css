@@ -1,15 +1,85 @@
+
 h1 {
-	background-color: black;
+	float: left;
+	background-color: #4aaaa5;
 	color: white;
-	border-style: hidden double dashed;
-	text-align: center;
+	padding: 10px;
+	margin-top: 10%;
+	
+
+	transform: translateY(-50%);
+		margin-left: 10%;
 }
 
-body {
+/*body{
+float: left;
+	margin-left: 5px;
+	margin-top: 5px;
+	background-color: black;}*/
+
+
+h2{ position: relative; top: 160px;
+	font-size: 30px;
+	content: 50px;
+	color: #4aaaa5;
+	border-bottom: 2px solid;
+	border-color: grey;
+  }
+
+p {
+	color: grey;
+	float: left;
+	position: relative; bottom: 10px;
+	background-color: white;
+    margin-left: 50px;
+    padding: 10px;
+    border-width:5px;
+  }
+
+
+
+
+
+.Connect{
+	color:#4aaaa5;
+	float: right;
+	position: relative; left: -200px;
+	/*background-color: black;*/
+	position: relative; top: 289px;
+	
+
+	
+}
+
+img.resize {
+  max-width:5%;
+  max-height:5%;
+  float: left;
+}
+.Links{
+	float: right;
+	
+	position: relative; left: 600px;
+	
+	padding: 20px;
+	background-color: black;
+	margin-left: 30%;
+	padding-top: 10%;
+	border color: grey;
+	border-top: 2px solid;
+}
+	
+
+footer{
+	margin-top: 40%;
+	padding-top: 30px;
+	text-align: center;
 	background-color: grey;
-	text-align: center;
+	border-top: 4px solid;
+	border-color: #4aaaa5;
+
 }
 
-.test {
-	color: blue;
-}
+
+
+
