@@ -86,6 +86,7 @@ background-color: white;
 
 }
 
+
 footer{margin-top: 10%;
 	padding-top: 30px;
 	text-align: center;
@@ -106,15 +107,26 @@ img.resize2 {
 }
 
 img.resize3{
-	float:left;
 	max-width:200px;
   max-height:200px;
+}
+.pic{
+	float:left;
+	margin-top: 75px;
+	padding: 20px;
 }
 
 body { 
 	background-color: #aaa;
         background-image:url(assets/images/cork-wallet.png);
+
 }/*not sure why this doesn't work*/
+.clearfix {
+	clear: both;
+	content: "  ";
+	display: block;
+}
+
 
 /*.headCon{
 	width: 100%
