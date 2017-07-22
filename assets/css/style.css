@@ -36,7 +36,10 @@ margin-top: 50px;
 
 .SubTainer{
 margin-left: 50px;
-background-color:white ;
+background-color:white;
+
+height: auto;
+
 }
 
 .AbtHead{
@@ -118,7 +121,7 @@ img.resize3{
 
 body { 
 	background-color: #aaa;
-        background-image:url(assets/images/cork-wallet.png);
+        background-image:url(../images/cork-wallet.png);
 
 }/*not sure why this doesn't work*/
 .clearfix {
