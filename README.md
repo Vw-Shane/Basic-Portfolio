@@ -1,2 +1,3 @@
 # Basic-Portfolio
-HW1
+soon to update and hosted at https://git.heroku.com/shanesportfolio.git
+
